@@ -1,0 +1,2 @@
+# Replace with the line from AdMob (Apps > app-ads.txt) once the real AdMob account is set up:
+# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
