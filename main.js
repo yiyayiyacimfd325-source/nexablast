@@ -94,7 +94,7 @@ const EN = {
   z_t: "THE BATTLEFIELD<br><em>IS WAITING, PILOT.</em>", z_p: "Pick your mech. Take cover. Bring your rivals down. Start writing your own legend in NEXABLAST: Mech Arena.",
   z_b: "DOWNLOAD FREE NOW", st_dl: "Download", st_soon: "Coming soon", st_now: "Play now", st_web: "Play in browser",
   z_soon: "The PC download link is coming here very soon. For now you can play in your browser.",
-  ft: "Giant war machines. Tactical arenas. Non-stop combat.", ft1: "Privacy policy", ft2: "Delete account", ft3: "Press kit",
+  ft: "Giant war machines. Tactical arenas. Non-stop combat.", ft1: "Privacy policy", ft5: "Terms of use", ft2: "Delete account", ft3: "Press kit",
 };
 const META = {
   tr: { title: document.title, desc: document.querySelector('meta[name="description"]').content },
